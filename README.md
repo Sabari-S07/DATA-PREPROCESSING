@@ -17,6 +17,7 @@ To perform data preprocessing on a dataset using Python and Scikit-learn by hand
 13.	Display the preprocessed training and testing datasets. 
 
 # Program
+```
 # Step 1: Import the required Python libraries
 import numpy as np
 import pandas as pd
@@ -95,6 +96,7 @@ print(y_train)
 
 print("\n--- y_test ---")
 print(y_test)
+```
 
 # RESULT
 The dataset was successfully loaded, inspected, and preprocessed.
